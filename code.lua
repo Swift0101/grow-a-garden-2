@@ -1,4 +1,4 @@
-local ESP_LUA_URL    = ""
+local ESP_LUA_URL    = "loadstring(game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/main/Main/GaG/Main.lua"))()
 local FULL_LUA_URL   =" https://raw.githubusercontent.com/ThundarZ/Welcome/main/Main/GaG/Main.lua"
 local GITHUB_KEY_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/tdata.lua"
 local PLAYER_LIST_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/playyer.lua"
