@@ -1,5 +1,5 @@
 local ESP_LUA_URL    = ""
-local FULL_LUA_URL   = "https://https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/coed.lua"
+local FULL_LUA_URL   = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/coed.lua"
 local GITHUB_KEY_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/key.lua"
 local PLAYER_LIST_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/playyer.lua"
 
