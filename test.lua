@@ -1,7 +1,7 @@
 local ESP_LUA_URL    = ""
-local FULL_LUA_URL   = "https://raw.githubusercontent.com/Swift0202/Swift-1/refs/heads/main/code.lua"
-local GITHUB_KEY_URL = "https://raw.githubusercontent.com/Swift0202/Swift-1/refs/heads/main/tdata.lua"
-local PLAYER_LIST_URL = "https://raw.githubusercontent.com/Swift0202/Swift-1/refs/heads/main/player.lua"
+local FULL_LUA_URL   = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/code.lua"
+local GITHUB_KEY_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/player.lua"
+local PLAYER_LIST_URL = "https://raw.githubusercontent.com/Swift0202/grow-a-garden-1/refs/heads/main/tdata.lua"
 
 local HttpService = game:GetService("HttpService")
 
